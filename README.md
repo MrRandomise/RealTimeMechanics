@@ -116,10 +116,4 @@ Assets/
 
 ---
 
-## 📄 License
-
-Distributed under the **BSD 2-Clause License**. See [LICENSE](LICENSE) for details.
-
----
-
 *Built with ❤️ as part of the Otus Unity Professional course.*
